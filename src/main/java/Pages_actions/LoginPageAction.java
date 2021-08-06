@@ -33,9 +33,6 @@ public class LoginPageAction {
               return bbc.passwordBlankErrorText.getText();
           }
 
-          public String usernameErrorText(){
-              return bbc.usernameBlankErrorText.getText();
-          }
           public String usernameGeneralErrorText(){
               return bbc.usernameGeneralErrorText.getText();
 
